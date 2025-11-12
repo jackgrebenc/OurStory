@@ -72,47 +72,47 @@ function App() {
         <div className="photo-wall-grid">
           <div className="photo-item tall">
             <div className="photo-placeholder">
-              <img src="/B25/car_2.jpeg" alt="Chingo" />
+              <img src="/car_2.jpeg" alt="Chingo" />
             </div>
           </div>
           <div className="photo-item wide">
             <div className="photo-placeholder">
-              <img src="/B25/car_7.jpeg" alt="Chingo" />
+              <img src="/car_7.jpeg" alt="Chingo" />
             </div>
           </div>
           <div className="photo-item">
             <div className="photo-placeholder">
-              <img src="/B25/car_4.jpeg" alt="Chingo" />
+              <img src="/car_4.jpeg" alt="Chingo" />
             </div>
           </div>
           <div className="photo-item">
             <div className="photo-placeholder">
-              <img src="/B25/car_5.jpeg" alt="Chingo" />
+              <img src="/car_5.jpeg" alt="Chingo" />
             </div>
           </div>
           <div className="photo-item wide">
             <div className="photo-placeholder">
-              <img src="/B25/car_8.jpeg" alt="Chingo" />
+              <img src="/car_8.jpeg" alt="Chingo" />
             </div>
           </div>
           <div className="photo-item tall">
             <div className="photo-placeholder">
-              <img src="/B25/car_3.jpeg" alt="Chingo" />
+              <img src="/car_3.jpeg" alt="Chingo" />
             </div>
           </div>
           <div className="photo-item">
             <div className="photo-placeholder">
-              <img src="/B25/car_11.jpeg" alt="Chingo" />
+              <img src="/car_11.jpeg" alt="Chingo" />
             </div>
           </div>
           <div className="photo-item big">
             <div className="photo-placeholder">
-              <img src="/B25/car_10.jpeg" alt="Chingo" />
+              <img src="/car_10.jpeg" alt="Chingo" />
             </div>
           </div>
           <div className="photo-item">
             <div className="photo-placeholder">
-              <img src="/B25/car_9.jpeg" alt="Chingo" />
+              <img src="/car_9.jpeg" alt="Chingo" />
             </div>
           </div>
         </div>
@@ -158,7 +158,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/dec.jpeg" alt="Chingo" />
+                <img src="/dec.jpeg" alt="Chingo" />
               </span>
             </div>
           </div>
@@ -171,7 +171,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/jan.jpeg" alt="Cladestino's" />
+                <img src="/jan.jpeg" alt="Cladestino's" />
               </span>
             </div>
           </div>
@@ -232,7 +232,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/feb.jpeg" alt="Whistler" />
+                <img src="/feb.jpeg" alt="Whistler" />
               </span>
             </div>
           </div>
@@ -245,7 +245,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/buff.jpeg" alt="Chingo2" />
+                <img src="/buff.jpeg" alt="Chingo2" />
               </span>
             </div>
           </div>
@@ -282,7 +282,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/apr.jpeg" alt="flowers" />
+                <img src="/apr.jpeg" alt="flowers" />
               </span>
             </div>
           </div>
@@ -295,7 +295,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/may.jpeg" alt="Central Cee" />
+                <img src="/may.jpeg" alt="Central Cee" />
               </span>
             </div>
           </div>
@@ -355,7 +355,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/june.jpeg" alt="Chow" />
+                <img src="/june.jpeg" alt="Chow" />
               </span>
             </div>
           </div>
@@ -368,7 +368,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/july.jpeg" alt="Simpl Things" />
+                <img src="/july.jpeg" alt="Simpl Things" />
               </span>
             </div>
           </div>
@@ -412,7 +412,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/aug.jpeg" alt="Canoe Lake" />
+                <img src="/aug.jpeg" alt="Canoe Lake" />
               </span>
             </div>
           </div>
@@ -425,7 +425,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/sept.jpeg" alt="Rep.Textiles" />
+                <img src="/sept.jpeg" alt="Rep.Textiles" />
               </span>
             </div>
           </div>
@@ -480,7 +480,7 @@ function App() {
           <div className="image-block">
             <div className="image-wrapper">
               <span className="image-icon">
-                <img src="/B25/oct.jpeg" alt="Quebec City" />
+                <img src="/oct.jpeg" alt="Quebec City" />
               </span>
             </div>
           </div>
