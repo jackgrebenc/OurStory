@@ -486,6 +486,30 @@ function App() {
           </div>
         </div>
       </section>
+      <section className="monthly-intro-section">
+        <div className="monthly-intro-content">
+          <h2 className="monthly-intro-title">The Suprise</h2>
+          <p className="monthly-intro-subtitle">(One of them)</p>
+          <div className="scroll-indicator">
+            <span>↓</span>
+          </div>
+        </div>
+      </section>
+      <div className="gift-container">
+        <p className="rect two-tickets">Dec 4th @ The Phoenix</p>
+        <p className="rect skai">SKAI</p>
+        <iframe
+          data-testid="embed-iframe"
+          style={{ borderRadius: "12px", borderColor: "transparent" }}
+          src="https://open.spotify.com/embed/track/0hEWvzkgbI301JZj947gFz?utm_source=generator"
+          width="25%"
+          height="fit-content"
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"
+          className="rect track"
+        ></iframe>
+        <p className="rect isyourgod">ISYOURGOD</p>
+      </div>
     </div>
   );
 }

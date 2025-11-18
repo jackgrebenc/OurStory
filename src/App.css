@@ -555,3 +555,57 @@ section:nth-of-type(15) { z-index: 11; } /* October */
   }
 }
 
+.gift-container {
+  width:100%;
+  height:100vh;
+  background-color: black;
+  position: relative;
+  overflow: hidden;
+  transition: background-color 2.5s ease-out;
+  transition-delay:0ms;
+}
+
+.gift-container:hover {
+  background-color:white;
+  transition-delay:500ms;
+  
+}
+
+.gift-container:hover .skai {
+  transform:translate(125%, -200%);
+  transition-delay:500ms;
+}
+
+.gift-container:hover .track {
+  transform:translateY(-250%);
+  transition-delay:500ms;
+}
+
+.gift-container:hover .isyourgod {
+  transform:translate(-150%, -200%);
+  transition-delay:500ms;
+}
+
+.gift-container:hover .two-tickets {
+  transform:translate(0%, -600%);
+  transition-delay:500ms;
+}
+
+.rect {
+  position:absolute;
+  top:100%;
+  color:red;
+  transition: transform 2.5s ease-out;
+  transition-delay:0ms;
+  font-size:100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.track {
+  left:40%;
+}
+
+.isyourgod {
+  color:black;
+  left:100%
+}
