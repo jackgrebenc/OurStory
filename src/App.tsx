@@ -8,6 +8,7 @@ function App() {
         <div className="hero-overlay"></div>
         <div className="hero-content">
           <h1 className="hero-title">Berkeley's 25th Year Wrapped</h1>
+          <p className="hero-subtitle">Happy 26th Birthday!</p>
           <div className="scroll-indicator">
             <span>↓</span>
           </div>
