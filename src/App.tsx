@@ -137,11 +137,11 @@ function App() {
         <div className="section-inner">
           <div className="text-block">
             <h2>December 2024</h2>
-            <h3>Dec 05 - 08: Berkeley's trip to San Francisco game</h3>
+            <h3>Dec 05 - 08: Berkeley's trip to San Francisco</h3>
             <p>
               The first trip of many as a quarter century woman. Great to catch
-              up with Hannah and see the city of tech. Alcatraz sounded like
-              quite the prison, I wonder why they shut it down?
+              up with Hannah and see the city of tech. Alcatraz seemed like a
+              fascinating piece of history to explore.
             </p>
             <h3>Dec 08: Berkeley's Chingo arrives</h3>
             <p>
@@ -207,12 +207,11 @@ function App() {
         <div className="section-inner">
           <div className="text-block">
             <h2>February 2025</h2>
-            <h3>Feb 01: Berkeley demands a pottery class</h3>
+            <h3>Feb 01: Berkeley tries a pottery class</h3>
             <p>
-              Might be the biggest scam of the year, which is saying something
-              (Ironman refund policy). Let's run three classes at the same time
-              and give little to no instruction to two of them. Oh you want to
-              pick up your pieces? Well fuck off.
+              The class was a bit disappointing due to limited instruction and
+              logistical challenges with picking up the finished pieces. Still,
+              it was an interesting experience to try something new.
             </p>
             <h3>Feb 08-09: Berkeley explores Markdale</h3>
             <p>
@@ -303,24 +302,23 @@ function App() {
             <h2>May 2025</h2>
             <h3>May 03: Berkeley learns about Mark Carney's Values</h3>
             <p>
-              Caught up in Carney fever, she makes the snap decision to read the
-              memoir of the man who saved Canada from financial collapse.
+              Caught up in Carney fever, she picks up a copy of the manifesto of
+              the man who saved Canada from financial collapse.
             </p>
             <h3>May 03: Berkeley continues to vacation</h3>
             <p>
-              Unclear how she acquires so many days off, but she uses a few here
-              to attend the first annual MMF (Michael Merrick Foundation) trip
-              to St John's. Many great memories and farts were had by many. Me
-              Younglad was well behaved all trip and the Dildo sign is even
-              better in person, thank you Jimmy Kimmel.
+              She used some well-earned time off to attend the first annual MMF
+              (Michael Merrick Foundation) trip to St John's. Many great
+              memories were made on this trip. The whale watching and George
+              street bender were defintely the highlights. Notably not a
+              highlight was the Leafs loosing Game 7.
             </p>
             <h3>May 25: Berkeley's first grime show of the year </h3>
             <p>
               Catching a show at History is always fun and even better when it's
-              Central Cee. Yelling each lyric at the top of her lungs, she left
-              a lasting impression on fellow audience members. She was likely
-              the talk of the town at Birchmont High the following Monday. She
-              also impressed the boyfriend.
+              Central Cee. Singing along to every lyric at the top of her lungs,
+              she was fully immersed in the performance and had an amazing time.
+              The boyfriend was impressed by her enthusiasm.
             </p>
           </div>
         </div>
@@ -333,17 +331,16 @@ function App() {
             <h2>June 2025</h2>
             <h3>Jun 04-09: Berkeley takes on CDMX</h3>
             <p>
-              Another year, another girls trip. This time to Mexico City. No
-              boyfriend allowed or required, as we have Christine to fill the
-              position for the week. From visiting Dua's favourite spot to going
-              on excursions outside of the city - the trip seemed to be an
-              overwhelming triumph.
+              Another year, another girls trip. This time to Mexico City. From
+              visiting Dua's favourite spot to going on excursions outside of
+              the city - the trip was an overwhelming success with unforgettable
+              memories of which the boyfriend does not possess any photos of.
             </p>
             <h3>Jun 14: Berkeley meets the mayor of Toronto</h3>
             <p>
-              Although not yet given the key to the city, she was able to snap a
-              quick photo and give her thanks to one of the quirkier mayors in
-              the history of the city.
+              Although not yet given the key to the city, she was able to
+              capture a quick photo and give her thanks to one of the quirkier
+              mayors in the history of the city.
             </p>
             <h3>Jun 22: Berkeley learns to cook</h3>
             <p>
@@ -404,9 +401,9 @@ function App() {
             </p>
             <h3>Aug 20-25: Berkeley returns to the west coast</h3>
             <p>
-              Her ability to manage connections is unmatched. Don't know too
-              many people that get invited to weddings by people they met for 3
-              days travelling abroad.
+              Her ability to manage connections is top tier. Don't know too many
+              people that get invited to weddings by people they met for 3 days
+              travelling abroad.
             </p>
           </div>
           <div className="image-block">
@@ -445,6 +442,7 @@ function App() {
               the business continues to grow and improve day by day. The
               boyfriend, at times grumpy, holds strong on his promise of
               producing a useable website for prospective customers.
+              <p>Well done babe. I am proud of you.</p>
             </p>
           </div>
         </div>
@@ -471,10 +469,11 @@ function App() {
             </p>
             <h3>Oct 23-27: Berkeley falls in love with Quebec City</h3>
             <p>
-              The trip purpose was not clear until the day of arrival. It turned
-              into a beautiful weekend of re-acquainting ourselves with the
-              walled city and eating our way around town. Mix in a couple of
-              museums for good measure of course.
+              A somewhat spontaneous getaway that turned into a beautiful
+              weekend of re-acquainting ourselves with the walled city and
+              eating our way around town. We also enjoyed visiting a couple of
+              museums along the way, especially the Niki de Saint Phalle
+              exhibit.
             </p>
           </div>
           <div className="image-block">
